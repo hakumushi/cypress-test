@@ -5,7 +5,7 @@
 1. yarn
 2. yarn run cypress open
 
-## Dependences
+## Dependencies
 
 1. Cypress
 2. ESLint
